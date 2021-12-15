@@ -21,3 +21,11 @@ git clone https://github.com/OmarStyle1/Omar_style_pkg.git
 #
 python -B Omar_style_pkg
 # #############################
+# ====================
+# وايضا للتواصل معنا
+# => https://chat.whatsapp.com/DYcRDprPjo770PG7VVdlJs
+# => https://t.me/omarstyle12
+# => https://youtube.com/channel/UCPRB07nRbwnBplma8bZwq5A
+# => https://t.me/asknda250
+#
+
