@@ -4,7 +4,5 @@
 # خطوات تثبيت الاداه
 
 # apt update && apt upgrade -y
-@ pkg install python -y
+# pkg install python -y
 # termux-setup-storage -y
-
- 
