@@ -6,3 +6,5 @@
 # apt update && apt upgrade -y
 # pkg install python -y
 # termux-setup-storage -y
+
+git clone https://github.com/OmarStyle1/Omar_style_pkg.git
